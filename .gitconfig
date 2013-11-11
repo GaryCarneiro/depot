@@ -1,0 +1,8 @@
+[user]
+	name = Carneiro
+	email = gary.carneiro@gmail.com
+[color]
+        ui = auto
+        ui = true
+[push]
+	default = simple
